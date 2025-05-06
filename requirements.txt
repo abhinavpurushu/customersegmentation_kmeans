@@ -1,4 +1,4 @@
 1. pandas
-2. numpy
+2. seaborn
 3. matplotlib
 4. scikit-learn
